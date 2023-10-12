@@ -1,0 +1,19 @@
+header {
+    margin-bottom: -5px;
+}
+
+header img{
+    width: 100%;
+}
+
+main {
+    text-align: center;
+    background-color: rgb(115,115,115);
+}
+
+.icon {
+    border: 10px solid rgb(68, 68, 68);
+    border-radius: 50%;
+    width: 200px;
+    margin: 35px;
+}
