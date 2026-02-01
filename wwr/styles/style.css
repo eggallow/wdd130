@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Average+Sans&family=Fugaz+One&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 200px;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+nav a {
+    text-align: center;
+    color: #002642;
+    text-decoration: none;
+    padding: 35px;
+}
+
+nav a:hover {
+    background-color: #002642;
+    color: white;
+}
+
+.home-title {
+    color: white;
+    font-family: 'Fugaz One', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Average Sans', sans-serif;
+}
+
+#hero-msg h1, #hero-msg h2 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+header  {
+    background-color: #ffde7d;
+}
+
+body {
+    background-color: #4887b5;
+    font-size: 22px;
+    font-family: 'Average Sans', sans-serif;
+}
+
+.icon {
+    width: 100px;
+    padding-top: 10px;
+}
+
+.book, .join {
+    background-color: #ffde7d;
+    color: #002642;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.book:hover, .join:hover {
+    background-color: #bd7c20;
+    color: white;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img  {
+    border: 10px solid black;
+}
+
+#background {
+    height: 725px;
+    background-color: #ffde7d;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+.msg {
+    background-color: #bd7c20;
+    line-height: 1.5em;
+    padding: 35px;
+}
+
+.msg h2  {
+    color: white;
+    font-family: 'Fugaz One', sans-serif;
+}
+
+.msg p {
+    color: white;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+footer {
+    background-color: #ffde7d;
+    padding: 25px 50px;
+}
+
+footer a {
+    color:  #002642;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
